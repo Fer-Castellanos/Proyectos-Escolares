@@ -1,0 +1,16 @@
+// Prueba del programa //
+
+integer @a = 0
+integer @b = 0
+integer @c = 0
+
+if( @a & @b <= 10){
+
+@c = -5;
+
+} else if (@a | @b = 5 ){
+
+@c = 10 + @d
+
+}
+
