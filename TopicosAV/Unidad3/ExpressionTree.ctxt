@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExpressionTree()
+comment1.params=tree
+comment1.target=void\ inorderPrint(ExpressionTree)
+comment2.params=s\ i\ stack
+comment2.target=void\ expression(java.lang.String,\ int,\ java.util.Stack)
+comment3.params=
+comment3.target=double\ calculate()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ lb\ ub
+comment0.target=void\ QuickSort(int[],\ int,\ int)
+comment1.params=x\ lb\ ub
+comment1.target=int\ partition(int[],\ int,\ int)
+numComments=2

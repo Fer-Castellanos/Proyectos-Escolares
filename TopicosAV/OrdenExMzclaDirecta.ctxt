@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ main(java.lang.String[])
+comment1.params=f
+comment1.target=void\ mezclaDirecta(java.io.File)
+comment2.params=f\ f1\ f2\ longSec\ numReg
+comment2.target=void\ distribuir(java.io.File,\ java.io.File,\ java.io.File,\ int,\ int)
+comment3.params=f\ t\ longSec
+comment3.target=void\ subSecuencia(java.io.DataInput,\ java.io.DataOutput,\ int)
+comment4.params=f1\ f2\ f\ lonSec\ numReg
+comment4.target=void\ mezclar(java.io.File,\ java.io.File,\ java.io.File,\ int,\ int)
+comment5.params=f
+comment5.target=void\ escribir(java.io.File)
+numComments=6

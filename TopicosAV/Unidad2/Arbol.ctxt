@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arbol()
+comment1.params=p\ x
+comment1.target=void\ hijoIzquierdo(Nodo,\ int)
+comment2.params=p\ x
+comment2.target=void\ hijoDerecho(Nodo,\ int)
+comment3.params=
+comment3.target=Nodo\ getRaiz()
+comment4.params=x
+comment4.target=void\ creaArbolBinario(int)
+comment5.params=p
+comment5.target=void\ preOrden(Nodo)
+comment5.text=Recorrido\ en\ preorden
+comment6.params=p
+comment6.target=void\ entreOrden(Nodo)
+comment6.text=Recorrido\ en\ entreorden
+comment7.params=p
+comment7.target=void\ posOrden(Nodo)
+comment7.text=Recorrido\ en\ posorden
+numComments=8

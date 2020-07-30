@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=tama\u00F1o
+comment1.target=NReinas(int)
+comment2.params=
+comment2.target=void\ inicializar()
+comment3.params=fila
+comment3.target=void\ buscarSolucion(int)
+comment4.params=
+comment4.target=void\ buscarSoluciones()
+comment5.params=
+comment5.target=void\ buscarUnaSolucion()
+comment6.params=
+comment6.target=void\ agregarSolucion()
+comment7.params=nuevaSolucion
+comment7.target=boolean\ solucionNueva(int[])
+comment8.params=a\ b
+comment8.target=boolean\ sonIguales(int[],\ int[])
+comment9.params=
+comment9.target=java.util.ArrayList\ getSoluciones()
+numComments=10

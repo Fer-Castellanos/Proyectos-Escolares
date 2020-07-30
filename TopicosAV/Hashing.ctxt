@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=f\ i\ valor
+comment0.target=void\ place(Nodo[],\ int,\ int)
+comment1.params=x
+comment1.target=void\ hashingSort(int[])
+numComments=2

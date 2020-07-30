@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ n\ bajo\ alto
+comment0.target=int\ busquedaBinaria(int[],\ int,\ int,\ int)
+comment1.params=x\ n
+comment1.target=void\ insercionSimple(int[],\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

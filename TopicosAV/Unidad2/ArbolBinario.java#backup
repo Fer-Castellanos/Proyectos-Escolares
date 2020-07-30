@@ -1,0 +1,44 @@
+package Unidad2;
+import javax.swing.*;
+
+/**
+ * Write a description of class ArbolBinario here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class ArbolBinario
+{
+    public void creaArbolBinario(int x)
+   {
+       crearArbolBinario arbol=new crearArbolBinario();
+       for(int i=0;i<20; i++)
+       {
+         int n=Integer.parseInt(JOptionPane.showInputDialog(null,"n:"));
+         arbol.creaArbolBinario(n);
+       }
+
+      arbol.entreOrden(arbol.getRaiz());
+      
+     Nodo p,q;
+     if(raiz==null)
+       raiz=new Nodo(x); //raiz de arbol binario
+       else{ //avanza a los niveles de arbol binario
+           p=raiz;
+           q=raiz;
+           while(q!=null){
+               p=q;
+               if(x<p.info)
+               q=p.izquierdo; //avanza añ hijo izquierdp
+               else
+               q=p.derecho;   //avanza hijo derecho
+               
+            }
+            
+            if(x<p.info)
+            hijoIzquierdo(p,x);  //genera nuevo hijo izquierdo
+            else
+            hijoDerecho(p,x);   //genera nuevo hijo derecho
+        }
+    }
+}
